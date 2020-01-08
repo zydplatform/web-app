@@ -1,0 +1,24 @@
+body{
+	margin: 0px auto;
+	height: 1500px;
+	overflow-x: hidden;
+}
+.carousel-inner img {
+      width: 100%;
+  }
+  div.card{
+    /*border-radius: 100%;*/
+    border: none;
+  }
+  div.row{
+  	padding: 5px 16px;
+  }
+  div.carousel-item img{
+  	width: 100%;
+  	height: 500px;
+  }
+div#footer{
+	padding: 12px 16px;
+	width: 100%;
+	height: 400px;
+}
