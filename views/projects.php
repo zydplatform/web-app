@@ -36,7 +36,11 @@
             <a class="nav-link" href="contactform.php">Gallery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="../documents/cv-kigandaivan.pdf" target="_blank">Download CV here</a>
+            <a class="nav-link" href="../documents/Rosemary Isoto_Short CV.pdf" target="_blank" >Download CV here</a>
+          </li>
+         
+          <li class="nav-item">
+            <a class="nav-link" href="../documents/A Brief Biography about Dr. Isoto.pdf" target="_blank" >Biography</a>
           </li>
         
         </ul>
